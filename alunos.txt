@@ -10,6 +10,10 @@ Fineza Joa
 Marta Santos
 
 LISTA ORDENADA
-Alice
-Bernardo
-Carla
+1.Alice
+2.Bernardo
+3.Carla
+4.Marcos
+5.Mateus
+6.Rui
+7.Paulo
